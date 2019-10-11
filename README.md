@@ -12,7 +12,7 @@ Em seguida só utilizar em sua IDE de preferência
 ## Tecnologias utilizadas
 
 - [Java 8](https://www.java.com/pt_BR/download/faq/java8.xml)- Linguagem de programação
-- [spring-boot](https://projects.spring.io/spring-boot/) (v2.1.9.RELEASE) - Framework para desenvolvimento de aplicações web
+- [Spring-boot](https://projects.spring.io/spring-boot/) (v2.1.9.RELEASE) - Framework para desenvolvimento de aplicações web
 - [Maven](https://maven.apache.org/) (Apache Maven v4.0.0) - Ferramente de gerenciamento de build
 - [H2](https://www.h2database.com/html/main.html) - Banco de dados em memória.
 - [IntelliJ](https://www.jetbrains.com/idea/) - IDE utilizada no desenvolvimento.
