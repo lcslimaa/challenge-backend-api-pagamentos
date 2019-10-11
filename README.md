@@ -46,7 +46,7 @@ Com cartão de crédito:
 		}
 	}
 }
-
+```
 
 Com boleto:
 
