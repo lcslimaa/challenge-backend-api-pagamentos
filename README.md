@@ -1,8 +1,8 @@
-# challengeWirecard
-API de pagamentos, desenvolvida para o desafio técnico backend da Wirecard Brasil
+# challenge backend
+API de pagamentos, desenvolvida para o desafio técnico backend
 
 ## Objetivo
-Meu desafio nesse projeto era recriar uma pequena parte da Wirecard, ou seja uma API de métodos de pagamento com opções de cartão de crédito e boleto, conforme foi descrito https://github.com/wirecardBrasil/challenge/tree/master/backend.
+Meu desafio nesse projeto era recriar uma pequena parte de um meio de pagamentos, ou seja uma API de métodos de pagamento com opções de cartão de crédito e boleto.
 
 ## Como executar
 
